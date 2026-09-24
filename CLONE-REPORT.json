@@ -1,0 +1,176 @@
+[
+ {
+  "path": "/",
+  "file": "index.html",
+  "bytes": 224543,
+  "assets": 28
+ },
+ {
+  "path": "/decisioning/",
+  "file": "decisioning/index.html",
+  "bytes": 1356442,
+  "assets": 25
+ },
+ {
+  "path": "/command-center/",
+  "file": "command-center/index.html",
+  "bytes": 1609168,
+  "assets": 25
+ },
+ {
+  "path": "/elements/",
+  "file": "elements/index.html",
+  "bytes": 841092,
+  "assets": 25
+ },
+ {
+  "path": "/compliance/",
+  "file": "compliance/index.html",
+  "bytes": 1578151,
+  "assets": 38
+ },
+ {
+  "path": "/capital/",
+  "file": "capital/index.html",
+  "bytes": 916244,
+  "assets": 28
+ },
+ {
+  "path": "/brokers/",
+  "file": "brokers/index.html",
+  "bytes": 890516,
+  "assets": 37
+ },
+ {
+  "path": "/fintechs/",
+  "file": "fintechs/index.html",
+  "bytes": 206822,
+  "assets": 20
+ },
+ {
+  "path": "/lenders/",
+  "file": "lenders/index.html",
+  "bytes": 892952,
+  "assets": 37
+ },
+ {
+  "path": "/bank-lenders/",
+  "file": "bank-lenders/index.html",
+  "bytes": 1395750,
+  "assets": 38
+ },
+ {
+  "path": "/developers/",
+  "file": "developers/index.html",
+  "bytes": 42093,
+  "assets": 7
+ },
+ {
+  "path": "/demo/",
+  "file": "demo/index.html",
+  "bytes": 44588,
+  "assets": 7
+ },
+ {
+  "path": "/about/",
+  "file": "about/index.html",
+  "bytes": 114386,
+  "assets": 66
+ },
+ {
+  "path": "/careers/",
+  "file": "careers/index.html",
+  "bytes": 69495,
+  "assets": 25
+ },
+ {
+  "path": "/contact/",
+  "file": "contact/index.html",
+  "bytes": 44858,
+  "assets": 10
+ },
+ {
+  "path": "/resources/",
+  "file": "resources/index.html",
+  "bytes": 54188,
+  "assets": 14
+ },
+ {
+  "path": "/resources/broken-capital-model-of-mortgage/",
+  "file": "resources/broken-capital-model-of-mortgage/index.html",
+  "bytes": 48152,
+  "assets": 9
+ },
+ {
+  "path": "/resources/beyond-the-wholesale-model/",
+  "file": "resources/beyond-the-wholesale-model/index.html",
+  "bytes": 50183,
+  "assets": 9
+ },
+ {
+  "path": "/resources/loan-factory-is-scaling-autonomous-mortgages/",
+  "file": "resources/loan-factory-is-scaling-autonomous-mortgages/index.html",
+  "bytes": 46535,
+  "assets": 9
+ },
+ {
+  "path": "/resources/jon-langlois-joins-pylon-as-chief-legal-officer-2/",
+  "file": "resources/jon-langlois-joins-pylon-as-chief-legal-officer-2/index.html",
+  "bytes": 44626,
+  "assets": 9
+ },
+ {
+  "path": "/resources/citi-invests-in-pylon-the-programmatic-mortgage-infrastructure-platform/",
+  "file": "resources/citi-invests-in-pylon-the-programmatic-mortgage-infrastructure-platform/index.html",
+  "bytes": 45522,
+  "assets": 9
+ },
+ {
+  "path": "/resources/mortgage-modernization-is-now-on-the-federal-agenda/",
+  "file": "resources/mortgage-modernization-is-now-on-the-federal-agenda/index.html",
+  "bytes": 53380,
+  "assets": 9
+ },
+ {
+  "path": "/resources/mortgage-modernization-why-previous-attempts-have-failed/",
+  "file": "resources/mortgage-modernization-why-previous-attempts-have-failed/index.html",
+  "bytes": 69463,
+  "assets": 12
+ },
+ {
+  "path": "/terms/",
+  "file": "terms/index.html",
+  "bytes": 89700,
+  "assets": 7
+ },
+ {
+  "path": "/privacy/",
+  "file": "privacy/index.html",
+  "bytes": 83829,
+  "assets": 7
+ },
+ {
+  "path": "/accessibility/",
+  "file": "accessibility/index.html",
+  "bytes": 46318,
+  "assets": 7
+ },
+ {
+  "path": "/web-electronic-consent/",
+  "file": "web-electronic-consent/index.html",
+  "bytes": 53075,
+  "assets": 7
+ },
+ {
+  "path": "/licensing/",
+  "file": "licensing/index.html",
+  "bytes": 77950,
+  "assets": 7
+ },
+ {
+  "path": "/404-page-not-found-pylon/",
+  "file": "404-page-not-found-pylon/index.html",
+  "bytes": 41590,
+  "assets": 7
+ }
+]
